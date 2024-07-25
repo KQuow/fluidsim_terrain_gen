@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1721744354 source:c:\Проги\fluidsim_terrain_gen\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1721739617 c:\Проги\fluidsim_terrain_gen\camera.h
+
+1721742666 source:c:\Проги\fluidsim_terrain_gen\camera.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stddef.h>
+	<stdlib.h>
+	"camera.h"
+
+1721759511 source:d:\Мои проги\fluidsim_terrain_gen\camera.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stddef.h>
+	<stdlib.h>
+	"camera.h"
+
+1721739618 d:\Мои проги\fluidsim_terrain_gen\camera.h
+
+1721766656 source:d:\Мои проги\fluidsim_terrain_gen\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
